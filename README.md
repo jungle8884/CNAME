@@ -1,2 +1,2 @@
 # CNAME
-www.jungle8884.icu
+jungle8884.icu
